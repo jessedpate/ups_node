@@ -1,7 +1,7 @@
 {
- "name": "ups_shipping",
+ "name": "ups_node",
  "description": "UPS Shipping API Interface. Not yet production ready.",
- "version": "0.1.0",
+ "version": "0.1.1",
  "author": "Jesse Pate <jesse@stateoftomorrow.tv>",
  "keywords": ["shipping", "ups", "ecommerce"],
  "dependencies": {
@@ -10,5 +10,5 @@
  "directories": { "lib": "./lib" },
  "main": "./index.js",
  "engines": { "node": ">= 0.4.1 < 0.5.0" },
- "repository": "git://github.com/jessedpate/ups_shipping.git"
+ "repository": "git://github.com/jessedpate/ups_node.git"
 }
