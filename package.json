@@ -1,7 +1,7 @@
 {
  "name": "ups_node",
- "description": "UPS Shipping API Interface. Not yet production ready.",
- "version": "0.1.3",
+ "description": "UPS Shipping API Interface. Production ready, but the API is going to get cleaned up soon.",
+ "version": "0.2.0",
  "author": "Jesse Pate <jesse@stateoftomorrow.tv>",
  "keywords": ["shipping", "ups", "ecommerce"],
  "dependencies": {
